@@ -1,0 +1,13 @@
+Trabalho de Algoritmos II
+
+Padrão:
+	-Visão (Interface)
+	-Controle (Regras de Negócio)
+	-Persistência (Acesso aos dados)
+Deve ter três tipos de persistência
+
+1 Memória
+2 Arquivo-texto
+3 Arquivo binário
+
+
